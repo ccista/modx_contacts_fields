@@ -1,0 +1,15 @@
+Форма
+[
+{"caption":"Контакты", "fields": [    
+{"field":"key","caption":"key"},
+{"field":"value","caption":"value"},
+{"field":"title","caption":"title"}
+]}
+]
+ 
+Колонки
+[
+{"header": "Key", "dataIndex": "key"},
+{"header": "Value", "dataIndex": "value"},
+{"header": "Title", "dataIndex": "title"}
+]
